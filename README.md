@@ -7,6 +7,7 @@ This project implements a UART loopback mechanism on the VSDSquadron FPGA Mini b
 The project includes:
 - Verilog source code for the top module and UART transmitter
 - A comprehensive report documenting the design, implementation, and testing results
+- A video demonstrating the UART Loopback on the VSDSquadron Mini FPGA
 
 ## Objectives
 - Implement a UART loopback mechanism to verify serial communication
